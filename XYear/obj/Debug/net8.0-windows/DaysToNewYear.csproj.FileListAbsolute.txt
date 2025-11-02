@@ -1,0 +1,14 @@
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\bin\Debug\net8.0-windows\DaysToNewYear.exe
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\bin\Debug\net8.0-windows\DaysToNewYear.deps.json
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\bin\Debug\net8.0-windows\DaysToNewYear.runtimeconfig.json
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\bin\Debug\net8.0-windows\DaysToNewYear.dll
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\bin\Debug\net8.0-windows\DaysToNewYear.pdb
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.MainForm.resources
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.csproj.GenerateResource.cache
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.dll
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\refint\DaysToNewYear.dll
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.pdb
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\DaysToNewYear.genruntimeconfig.cache
+C:\Users\Michael\Downloads\Compressed\DaysToNewYear_WinForms\obj\Debug\net8.0-windows\ref\DaysToNewYear.dll
